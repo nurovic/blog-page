@@ -14,7 +14,7 @@ const SideBar = () => {
             </div>
             <div className="list-icons flex flex-row mt-2">
              <AiFillMail className='h-7 w-7'/>
-             <a className='pl-2' href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mertnurovic@gmail.com" target="_blank">mertnurovic@gmail.com</a>
+             <a className='pl-2' href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mertnurovic@gmail.com">mertnurovic@gmail.com</a>
             </div>
             <div className="list-icons flex flex-row mt-2">
              <AiFillLinkedin className='h-7 w-7'/> 
